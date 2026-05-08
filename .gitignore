@@ -1,0 +1,6 @@
+mlruns/
+mlartifacts/
+mlflow.db
+*.png
+__pycache__/
+.ipynb_checkpoints/
